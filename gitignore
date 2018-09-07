@@ -1,2 +1,10 @@
 # LHL NEW :71b642f2280c16eea51890cba64a2955a5a1e16e
   GITHUB_TOKEN = 71b642f2280c16eea51890cba64a2955a5a1e16e
+# Avatars directory
+janaki_photos/
+
+# Dependency directories
+node_modules/
+
+# dotenv environment variables file
+.env
